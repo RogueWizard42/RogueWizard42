@@ -13,7 +13,7 @@
 - A fascination with AI, exploring its impact on future human interaction and its potential to revolutionize education
 
 ## Fun Facts
-- I literally don't know how to play any kind of game anymore except RPGs.
+- I literally don't know how to play any kind of games anymore except RPGs.
 - Jiu-Jitsu == involuntary yoga.
 - Everything is better with music, especially writing code.
 - Caffeine is an essential nutrient - change my mind.
