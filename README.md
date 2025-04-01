@@ -1,15 +1,17 @@
 ## Hello, I'm RogueWizard42! 👋
 
 ## About Me & What I'm Doing ##
-- Embracing a career transition into programming, one line of code at a time.
-- Focusing on Python with a mix of structured learning and hands-on projects.
+- Embracing a career transition into IT.
+- Developing Python skills with a mix of structured learning and hands-on projects.
 - Continuously learning through courses, documentation, and experimentation.
-- Building a portfolio that reflects dedication, steady growth, and a touch of subtle humor.
-- Tackling challenges with enthusiasm and a commitment to writing clean, efficient code.
+- Building a portfolio that reflects dedication, steady growth, and a touch of subtle humor(to maintain sanity of course).
+- Tackling challenges with enthusiasm, a sense of curiosity and a commitment to getting stuff done.
 
 ## Skills & Interests
 - Python, automation, data structures, algorithms
 - A commitment to clean, efficient code and continuous learning
+- Well on my way to earning the title of "Linux Evangelist"
+- I have an eye (or two) on the Cybersecurity space and I'm working on developing knowledge and skills there too
 - A fascination with AI, exploring its impact on future human interaction and its potential to revolutionize education
 
 ## Fun Facts
