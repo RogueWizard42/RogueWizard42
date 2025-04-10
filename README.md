@@ -2,9 +2,9 @@
 
 ## About Me & What I'm Doing ##
 - Embracing a career transition into IT.
-- Developing Python skills with a mix of structured learning and hands-on projects.
+- Developing skills in Linux, Python scripting and info security with a mix of structured learning and hands-on projects.
 - Continuously learning through courses, documentation, and experimentation.
-- Building a portfolio that reflects dedication, steady growth, and a touch of subtle humor(to maintain sanity of course).
+- Building a portfolio that reflects dedication, steady growth, and a touch of subtle humor (to maintain sanity of course).
 - Tackling challenges with enthusiasm, a sense of curiosity and a commitment to getting stuff done.
 
 ## Skills & Interests
